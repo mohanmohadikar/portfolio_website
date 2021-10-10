@@ -1,9 +1,10 @@
 import React from 'react';
+import CustomPill from './ui-components/CustomPill/CustomPill';
 
 function App() {
   return (
     <div>
-    Hello World !!!
+    <CustomPill />
     </div>
   );
 }
